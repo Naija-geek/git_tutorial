@@ -2,6 +2,6 @@ package git_tutorial;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World! of God");
+        System.out.println("Hi");
     }
 }
